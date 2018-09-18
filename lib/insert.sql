@@ -59,4 +59,3 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (random(), 18, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (random(), 7, 7);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (random(), 6, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (random(), 4, 3);
-INSERT INTO pledges (amount, user_id, project_id) VALUES (random(), 30, 8);
